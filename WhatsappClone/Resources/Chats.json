@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Antonio Ferrándiz",
+        "imageName": "turtlerock",
+        "id": 100,
+        "text": "Ya terminé Leisure",
+        "time": "10:25",
+        "sent": true,
+        "received": true,
+        "seen": false,
+        "silenced": false
+    },
+    {
+        "name": "Dino Pérez 👻",
+        "imageName": "silversalmoncreek",
+        "id": 101,
+        "text": "Me pusieron en un nuevo proyecto",
+        "time": "07:00",
+        "sent": true,
+        "received": true,
+        "seen": true,
+        "silenced": false
+    },
+    {
+        "name": "Daebak",
+        "imageName": "chilkoottrail",
+        "id": 102,
+        "text": "Probando mi nueva app",
+        "time": "07:00",
+        "sent": true,
+        "received": true,
+        "seen": true,
+        "silenced":true
+    },
+    {
+        "name": "papa 👴",
+        "imageName": "stmarylake",
+        "id": 103,
+        "text": "vendas a cenar?",
+        "time": "sábado",
+        "sent": true,
+        "received": true,
+        "seen": true,
+        "silenced":false
+    },
+    {
+        "name": "Francisco Cáceres",
+        "imageName": "",
+        "id": 104,
+        "text": "vuelve a abet",
+        "time": "Viernes",
+        "sent": true,
+        "received": false,
+        "seen": false,
+        "silenced": false
+    },
+    {
+    "name": "Grupo de trabajo",
+    "imageName": "twinlake",
+    "id": 105,
+    "text": "ya supieron lo ultimo?",
+    "time": "Jueves",
+    "sent": true,
+    "received": true,
+    "seen": true,
+    "silenced": true
+    },
+    {
+        "name": "El jefe 👨‍💻",
+        "imageName": "lakemcdonald",
+        "id": 106,
+        "text": "Tienes que trabajar este fin de semana",
+        "time": "Lunes",
+        "sent": true,
+        "received": true,
+        "seen": true,
+        "silenced": false
+    },
+    {
+        "name": "Jose Perez",
+        "imageName": "charleyrivers",
+        "id": 107,
+        "text": "como se llama aquella ciudad?",
+        "time": "08/21/23",
+        "sent": true,
+        "received": false,
+        "seen": false,
+        "silenced": false
+    },
+    {
+        "name": "Ultimo contacto",
+        "imageName": "icybay",
+        "id": 108,
+        "text": "texto de relleno para validar",
+        "time": "06/21/23",
+        "sent": true,
+        "received": true,
+        "seen": true,
+        "silenced": false
+    }
+]
+
